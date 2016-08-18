@@ -1,0 +1,17 @@
+.DS_Store
+builds
+Assembly-*
+Assets/_*
+Assets/Editor\ Default\ Resources*
+Assets/Fabric*
+Assets/Plugins*
+Assets/Standard\ Assets*
+Assets/Vendor*
+Library*
+Screenshots
+Temp
+Working
+*.blend1*
+*.sln
+*.userprefs
+*.sublime*
